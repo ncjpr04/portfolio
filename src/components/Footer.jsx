@@ -3,8 +3,8 @@ import ContactForm from './ContactForm.jsx'
 
 function Footer() {
   return (
-    <div id='contact'>
-      <div className='w-full flex flex-wrap p-20 font-["FoundersGrotesk"] bg-zinc-900'>
+    <div id='contact' className='h-full pt-6'>
+      <div className='w-full h-full flex flex-wrap p-20 font-["FoundersGrotesk"] bg-zinc-900'>
         <div className=' mt-10 h-full flex flex-col justify-between grow'>
           <div className="heading">
             <h1 className='text-[8vw] uppercase  font-semibold'>Eye-</h1>
