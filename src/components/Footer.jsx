@@ -19,7 +19,7 @@ function Footer() {
         </div>
       </div>
       <div className="logo ml-20">
-        <img className=" min-w-[70px] w-[7vw]" src="public\logo.png" alt="" />
+        <img className=" min-w-[70px] w-[7vw]" src="dist\public\logo.png" alt="" />
       </div>
       <div className='flex justify-center items-center pb-5'>&copy;Nitin Choudhary</div>
     </div>

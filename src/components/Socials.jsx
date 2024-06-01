@@ -7,7 +7,7 @@ function Socials() {
                 <button class="Btn">
                     <a href="https://www.linkedin.com/in/ncjpr04/" target="blank" className='Btn' >
                         <span class="svgContainer p-2">
-                            <img src="dist\klipartz.com.png" alt="" />
+                            <img src="dist\public\klipartz.com.png" alt="" />
                         </span>
                     </a>
                     <span class="BG1 BG"></span>
@@ -15,7 +15,7 @@ function Socials() {
                 <button class="Btn">
                     <a href="https://github.com/ncjpr04" target="blank" className='Btn' >
                         <span class="svgContainer p-2">
-                            <img src="public\pngegg.png" alt="" />
+                            <img src="dist\public\pngegg.png" alt="" />
                         </span>
                     </a>
                     <span class="BG4 BG"></span>
@@ -23,7 +23,7 @@ function Socials() {
                 <button class="Btn">
                     <a href="https://wa.me/+918005819661" target="blank" className='Btn' >
                         <span class="svgContainer p-2">
-                            <img src="public\toppng.com-white-whatsapp-n-256x256.png" alt="" />
+                            <img src="dist\public\toppng.com-white-whatsapp-n-256x256.png" alt="" />
                         </span>
                     </a>
                     <span class="BG3 BG"></span>
