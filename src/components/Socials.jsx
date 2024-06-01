@@ -7,7 +7,7 @@ function Socials() {
                 <button class="Btn">
                     <a href="https://www.linkedin.com/in/ncjpr04/" target="blank" className='Btn' >
                         <span class="svgContainer p-2">
-                            <img src="public\klipartz.com.png" alt="" />
+                            <img src="dist\klipartz.com.png" alt="" />
                         </span>
                     </a>
                     <span class="BG1 BG"></span>
