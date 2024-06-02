@@ -9,7 +9,7 @@ function Cards() {
         <h1 className='text-[10vw] font-["Neue_Montreal"] text-zinc-900'>Education</h1>
       </div>
       <div className='cardcontainer grow  w-2/5 '>
-        <div className="card relative w-full rounded-xl flex flex-col items-center justify-center min-h-[45vh] pb-14 bg-[#004D43]">
+        <div className="card relative w-full rounded-xl flex flex-col items-center justify-center min-h-[45vh] min-w-[235px] pb-14 bg-[#004D43]">
           <h1 className='mt-3 justify-center items-center text-2xl flex text-center flex-wrap w-[60%] font-bold'>Arya Institute Of Engineering Technology And Management</h1>
           <h1 className='mt-3 justify-center items-center text-2xl flex text-center  flex-wrap w-[60%] font-light'>Bechalors Of Technology</h1>
           <h1 className='mt-3 justify-center items-center text-2xl flex text-center  flex-wrap w-[60%] font-light'>Computer Science And Engineering</h1>
