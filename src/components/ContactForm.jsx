@@ -54,7 +54,7 @@ const ContactForm = () => {
 
 <button class="px-6 py-3 mt-3 mb-7 text-xs uppercase tracking-[2.5px] font-medium text-black bg-white border-none rounded-full shadow-[0_8px_15px_rgba(0,0,0,0.1)] transition-all duration-300 ease-in-out cursor-pointer outline-none hover:bg-violet-500 hover:shadow-[0_5px_20px_rgba(139,92,246,0.4)]
  hover:text-white hover:-translate-y-1.75 active:-translate-y-0.25">
-  Button
+  Submit
 </button>
 
                 </form>
