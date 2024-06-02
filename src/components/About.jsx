@@ -7,9 +7,11 @@ function About() {
             <div className='w-full  flex flex-wrap  border-t-[1px] gap-5 pt-20 mt-16 border-[#8ca148]'>
                 <div className=''>
                     <h1 className='text-[10vw]'>My Learnings: </h1>
-                    <button className='uppercase flex  gap-10 items-center mt-10 px-10 py-6 bg-zinc-900 rounded-full text-white'>Read More
+                    <a href="public\Nitin_s_Resume.pdf" download="Nitin's Resume.pdf">
+                    <button className='uppercase flex  gap-10 items-center mt-10 px-10 py-6 bg-zinc-900 rounded-full text-white'>Know More
                         <div className='w-[8px] h-[8px] bg-zinc-100 rounded-full'></div>
                     </button>
+                    </a>
                 </div>
                 <div className='grow  w-[35vw] rounded-2xl bg-[#8a9d45] m-auto backdrop-blur-sm  py-5 px-5 font-neueMontreal flex flex-wrap gap-2 justify-around items-center shadow-lg ring-1 ring-black/5'>
                     <div className=' min-w-[175px] w-[25%] mb-4 max-w-[50%] grow flex justify-center items-center'>
