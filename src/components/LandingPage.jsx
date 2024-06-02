@@ -27,7 +27,7 @@ function LandingPage() {
                 {["Bringing Visions to Life", "Crafting Pixel-Perfect Interfaces with Passion and Precision"].map((item, index) => <p className='text-lg font-light tracking-tight mb-5 leading-none'>{item}</p>)
                 }
                 <div className='start flex items-center gap-5'>
-                    <a href="public\Nitin_s_Resume.pdf" download="Nitin's Resume.pdf">
+                    <a href="https://drive.google.com/file/d/12wOnhsQc0JlbGQIHOmYTtzqLQzs2MZvA/view" download="Nitin's Resume.pdf">
                         <div className='px-5 py-2 border-[1px] border-zinc-400 font-light text-md font-[FoundersGrotesk] uppercase rounded-full'>Download Resume</div>
                     </a>
                     {/* <div className='w-10 h-10 flex items-center justify-center rounded-full border-[1px] border-zinc-400'>

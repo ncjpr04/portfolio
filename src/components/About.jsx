@@ -7,7 +7,7 @@ function About() {
             <div className='w-full  flex flex-wrap  border-t-[1px] gap-5 pt-20 mt-16 border-[#8ca148]'>
                 <div className=''>
                     <h1 className='text-[10vw]'>My Learnings: </h1>
-                    <a href="public\Nitin_s_Resume.pdf" download="Nitin's Resume.pdf">
+                    <a href="https://drive.google.com/file/d/12wOnhsQc0JlbGQIHOmYTtzqLQzs2MZvA/view" download="Nitin's Resume.pdf">
                     <button className='uppercase flex  gap-10 items-center mt-10 px-10 py-6 bg-zinc-900 rounded-full text-white'>Know More
                         <div className='w-[8px] h-[8px] bg-zinc-100 rounded-full'></div>
                     </button>
