@@ -2,11 +2,11 @@ import React from 'react'
 
 function Cards() {
   return (
-    <div id='education' className='w-full min-h-screen grow gap-5 flex flex-wrap items-center pt-24 pb-10
+    <div id='education' className='w-full min-h-screen grow gap-5 flex flex-wrap items-center pt-20 pb-10
      bg-zinc-100 cards  px-20 justify-center '>
 
       <div className=' w-full border-b-[1px] border-zinc-300 pb-10'>
-        <h1 className='text-8xl font-["Neue_Montreal"] text-zinc-900'>Education</h1>
+        <h1 className='text-[10vw] font-["Neue_Montreal"] text-zinc-900'>Education</h1>
       </div>
       <div className='cardcontainer grow  w-2/5 '>
         <div className="card relative w-full rounded-xl flex flex-col items-center justify-center min-h-[45vh] pb-14 bg-[#004D43]">

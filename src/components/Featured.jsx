@@ -19,7 +19,7 @@ function Feathured() {
   return (
     <div id='projects' className='w-full pt-24'>
       <div className=' w-full px-20 border-b-[1px] border-zinc-700 pb-10'>
-        <h1 className='text-8xl font-["Neue_Montreal"] '>Featured Projects</h1>
+        <h1 className='text-[10vw] font-["Neue_Montreal"] '>Featured Projects</h1>
       </div>
       <div className='cards py-10 px-20 flex flex-wrap justify-center items-center w-full'>
         <a href="https://ncjpr04-portfolio.netlify.app/" target="blank"  className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(0)}>
