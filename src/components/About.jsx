@@ -6,7 +6,7 @@ function About() {
             <h1 className='font-["Neue_Montreal"] text-[2.8vw] tracking-tight leading-[3.5vw]'>Hi, I am Nitin Choudhary, frontend developer passionate about sleek interfaces. HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, Redux. Explore my portfolio for engaging experiences.</h1>
             <div className='w-full  flex flex-wrap  border-t-[1px] gap-5 pt-20 mt-16 border-[#8ca148]'>
                 <div className=''>
-                    <h1 className='text-7xl'>My Learnings: </h1>
+                    <h1 className='text-[10vw]'>My Learnings: </h1>
                     <button className='uppercase flex  gap-10 items-center mt-10 px-10 py-6 bg-zinc-900 rounded-full text-white'>Read More
                         <div className='w-[8px] h-[8px] bg-zinc-100 rounded-full'></div>
                     </button>
