@@ -21,7 +21,12 @@ function Feathured() {
       <div className=' w-full px-20 border-b-[1px] border-zinc-700 pb-10'>
         <h1 className='text-[10vw] font-["Neue_Montreal"] '>Featured Projects</h1>
       </div>
+
       <div className='cards py-10 px-20 flex flex-wrap justify-center items-center w-full'>
+      <a href="https://eventgig.netlify.app/" target="blank"  className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(0)}>
+          <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Portfolio Website</h1>
+          <img className='rounded-lg' src="https://raw.githubusercontent.com/ncjpr04/portfolio/main/public/Screenshot%20(1133).png"  alt="" />
+        </a>
         <a href="https://ncjpr04-portfolio.netlify.app/" target="blank"  className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(0)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Portfolio Website</h1>
           <img className='rounded-lg' src="https://raw.githubusercontent.com/ncjpr04/portfolio/main/public/Screenshot%20(1133).png"  alt="" />
