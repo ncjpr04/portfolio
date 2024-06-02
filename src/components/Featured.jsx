@@ -24,42 +24,42 @@ function Feathured() {
       <div className='cards py-10 px-20 flex flex-wrap justify-center items-center w-full'>
         <a href="https://ncjpr04-portfolio.netlify.app/" target="blank"  className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(0)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Portfolio Website</h1>
-          <img className='rounded-lg' src="dist\public\Screenshot (1133).png"  alt="" />
+          <img className='rounded-lg' src="https://raw.githubusercontent.com/ncjpr04/portfolio/main/public/Screenshot%20(1133).png"  alt="" />
         </a>
 
         <a href="https://ncjpr04.github.io/Currency-Converter/" target="blank" className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(1)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Currency Converter</h1>
-          <img className='rounded-lg' src="dist\public\Screenshot (1134).png" alt="" />
+          <img className='rounded-lg' src="https://github.com/ncjpr04/portfolio/blob/main/public/Screenshot%20(1134).png?raw=true" alt="" />
         </a>
 
         <a href="https://ncjpr04.github.io/Rock-Paper-Scissors-Game/" target="blank" className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(2)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Stone Paper scissors Game</h1>
-          <img className='rounded-lg' src="dist\public\Screenshot (1135).png" alt="" />
+          <img className='rounded-lg' src="https://github.com/ncjpr04/portfolio/blob/main/public/Screenshot%20(1135).png?raw=true" alt="" />
         </a>
 
         <a href="https://ncjpr04.github.io/Spotify-Clone-Using-Vanilla-Css/" target="blank" className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(3)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Spotify Clone</h1>
-          <img className='rounded-lg' src="dist\public\Screenshot (1136).png" alt="" />
+          <img className='rounded-lg' src="https://github.com/ncjpr04/portfolio/blob/main/public/Screenshot%20(1136).png?raw=true" alt="" />
         </a>
 
         <a href="https://ncjpr04.github.io/Twitter_clone/" target="blank" className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(4)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Twitter Clone</h1>
-          <img className='rounded-lg' src="dist\public\Screenshot (1137).png" alt="" />
+          <img className='rounded-lg' src="https://github.com/ncjpr04/portfolio/blob/main/public/Screenshot%20(1137).png?raw=true" alt="" />
         </a>
 
         <a href="https://ncjpr04.github.io/Quote-Generator/" target="blank" className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(5)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Quote Generator</h1>
-          <img className='rounded-lg' src="dist\public\Screenshot (1138).png" alt="" />
+          <img className='rounded-lg' src="https://github.com/ncjpr04/portfolio/blob/main/public/Screenshot%20(1138).png?raw=true" alt="" />
         </a>
 
         <a href="https://ncjpr04.github.io/nitin.com-The-perfect-ecom/" target="blank" className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(6)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>E-Commerce Website</h1>
-          <img className='rounded-lg' src="dist\public\Screenshot (1139).png" alt="" />
+          <img className='rounded-lg' src="https://github.com/ncjpr04/portfolio/blob/main/public/Screenshot%20(1139).png?raw=true" alt="" />
         </a>
 
         <a href="https://ncjpr04.github.io/Portfolio-Website-using-html-and-css/" target="blank" className="item card pt-2 rounded-md max-w-[40vw] min-w-[360px] overflow-hidden m-5 grow " onMouseOver={() => hoverEffect(7)}>
           <h1 className='text-center font-bold font-["Neue_Montreal"] mb-2 text-3xl'>Portfolio Website</h1>
-          <img className='rounded-lg' src="dist\public\Screenshot (1140).png" alt="" />
+          <img className='rounded-lg' src="https://github.com/ncjpr04/portfolio/blob/main/public/Screenshot%20(1140).png?raw=true" alt="" />
         </a>
       </div>
     </div>
