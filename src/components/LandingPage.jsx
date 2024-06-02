@@ -23,8 +23,8 @@ function LandingPage() {
                 </div>
 
             </div>
-            <div className='border-t-[1px] border-zinc-700 mt-20 flex justify-between items-center py-5 px-20'>
-                {["For public & Private Companies", "From The First Pitch To IPO"].map((item, index) => <p className='text-md font-light tracking-tight leading-none'>{item}</p>)
+            <div className='border-t-[1px] border-zinc-700 mt-24 flex flex-wrap justify-between items-center py-5 px-20'>
+                {["Bringing Visions to Life", "Crafting Pixel-Perfect Interfaces with Passion and Precision"].map((item, index) => <p className='text-lg font-light tracking-tight mb-5 leading-none'>{item}</p>)
                 }
                 <div className='start flex items-center gap-5'>
                     <div className='px-5 py-2 border-[1px] border-zinc-400 font-light text-md font-[FoundersGrotesk] uppercase rounded-full'>Satrt The Project</div>
