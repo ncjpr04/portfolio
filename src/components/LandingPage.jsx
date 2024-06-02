@@ -19,7 +19,7 @@ function LandingPage() {
                     })}
                 </div>
                 <div className='blob overflow-hidden '>
-                    <img src="dist\public\Nitin.png" alt="" />
+                    <img src="https://github.com/ncjpr04/portfolio/blob/main/public/Nitin.png?raw=true" alt="" />
                 </div>
 
             </div>

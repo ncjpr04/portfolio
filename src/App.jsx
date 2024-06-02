@@ -14,7 +14,7 @@ import Socials from './components/Socials.jsx'
 function App() {
   const locomotiveScroll = new LocomotiveScroll();
   return (
-    <div className='w-full min-h-screen bg-zinc-900 text-white'>
+    <div className='w-full min-h-screen  text-white'>
 
       <Navbar />
       <Socials/>

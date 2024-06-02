@@ -23,7 +23,7 @@ function Navbar() {
     <div className="bg-zinc-700 mt-5 mx-5 bg-opacity-30 rounded-full backdrop-blur-sm fixed  z-[100] w-[calc(100vw-2.75rem)] px-20 py-3 font-[' Neue Montreal'] flex justify-between items-center isolate shadow-lg ring-1 ring-black/5">
       <div className="logo">
         <a href="#">
-          <img className='min-w-[70px] w-[7vw]' src="dist\public\logo.png" alt="" />
+          <img className='min-w-[70px] w-[7vw]' src="https://github.com/ncjpr04/portfolio/blob/main/public/logo.png?raw=true" alt="" />
         </a>
       </div>
 

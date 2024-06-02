@@ -16,7 +16,10 @@ export default {
     extend: {
       fontFamily:{
         FoundersGrotesk:["FoundersGrotesk", "sans-serif"]
-      }
+      },
+      zIndex: {
+        '51': '51',
+      },
     },
   },
   plugins: [],

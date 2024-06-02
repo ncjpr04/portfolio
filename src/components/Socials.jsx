@@ -2,12 +2,12 @@ import React from 'react';
 
 function Socials() {
     return (
-        <div className="fixed   z-50 flex my-[20vh] pointer-events-auto"> {/* Adjusted for full-screen centering and highest stacking */}
+        <div className="fixed z-50 flex my-[20vh] pointer-events-auto"> {/* Adjusted for full-screen centering and highest stacking */}
             <div className=" mx-1 bg-zinc-700 bg-opacity-30 backdrop-blur-sm rounded-full py-5 px-[0.5vw] font-neueMontreal flex flex-col gap-4 justify-between items-center shadow-lg ring-1 ring-black/5">
                 <button class="Btn">
                     <a href="https://www.linkedin.com/in/ncjpr04/" target="blank" className='Btn' >
                         <span class="svgContainer p-2">
-                            <img src="dist\public\klipartz.com.png" alt="" />
+                            <img src="https://github.com/ncjpr04/portfolio/blob/main/public/klipartz.com.png?raw=true" alt="" />
                         </span>
                     </a>
                     <span class="BG1 BG"></span>
@@ -15,7 +15,7 @@ function Socials() {
                 <button class="Btn">
                     <a href="https://github.com/ncjpr04" target="blank" className='Btn' >
                         <span class="svgContainer p-2">
-                            <img src="dist\public\pngegg.png" alt="" />
+                            <img src="https://github.com/ncjpr04/portfolio/blob/main/public/pngegg.png?raw=true" alt="" />
                         </span>
                     </a>
                     <span class="BG4 BG"></span>
@@ -23,7 +23,7 @@ function Socials() {
                 <button class="Btn">
                     <a href="https://wa.me/+918005819661" target="blank" className='Btn' >
                         <span class="svgContainer p-2">
-                            <img src="dist\public\toppng.com-white-whatsapp-n-256x256.png" alt="" />
+                            <img src="https://github.com/ncjpr04/portfolio/blob/main/public/toppng.com-white-whatsapp-n-256x256.png?raw=true" alt="" />
                         </span>
                     </a>
                     <span class="BG3 BG"></span>

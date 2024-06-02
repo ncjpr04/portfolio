@@ -13,8 +13,11 @@ function Cards() {
           <h1 className='mt-3 justify-center items-center text-2xl flex text-center flex-wrap w-[60%] font-bold'>Arya Institute Of Engineering Technology And Management</h1>
           <h1 className='mt-3 justify-center items-center text-2xl flex text-center  flex-wrap w-[60%] font-light'>Bechalors Of Technology</h1>
           <h1 className='mt-3 justify-center items-center text-2xl flex text-center  flex-wrap w-[60%] font-light'>Computer Science And Engineering</h1>
+          <div className='flex flex-wrap flex-col'>
           <div className='absolute px-5 py-1 rounded-full border-2 left-[2vw] bottom-[2vw]'> 2022-2026</div>
           <div className='absolute px-5 py-1 rounded-full border-2 right-[2vw] bottom-[2vw]'>8.7 CGPA</div>
+          </div>
+
         </div>
 
       </div>
