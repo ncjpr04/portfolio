@@ -17,7 +17,7 @@ function Feathured() {
   };
 
   return (
-    <div id='projects' className=' bg-zinc-900 rounded-tl-2xl rounded-tr-2xl w-full pt-24 relative z-51'>
+    <div id='projects' className=' bg-zinc-900 w-full pt-24 relative z-51'>
       <div className=' w-full px-20 border-b-[1px] border-zinc-700 pb-10'>
         <h1 className='text-[10vw] font-["Neue_Montreal"] '>Featured Projects</h1>
       </div>
